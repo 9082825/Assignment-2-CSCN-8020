@@ -1,4 +1,5 @@
 # Assignment 2 – CSCN 8020: Reinforcement Learning
+#Jose George - 9082825
 
 ## Tabular Q-Learning Hyperparameter Analysis on Taxi-v3
 
